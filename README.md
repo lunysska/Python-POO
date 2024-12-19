@@ -7,9 +7,9 @@ Para la materia de Programación, para la carrera de Actuaria.
 Profesora Titular: Virginia Teodosio
 Profesora de Laboratorio: Monica Canales
 
-## Edición
-Edición 1. 2019
-Edición 2. 2025
+## Ediciones
+- Edición 1. 2019
+- Edición 2. 2025
 
 ## Objetivos generales:
 1. Proveer los conocimientos y mecanismos para poder explotar la tecnología disponible.

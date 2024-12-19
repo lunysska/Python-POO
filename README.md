@@ -8,7 +8,7 @@ Profesora Titular: Virginia Teodosio
 Profesora de Laboratorio: Monica Canales
 
 ## Edición
-Edición 1. 2018
+Edición 1. 2019
 Edición 2. 2025
 
 ## Objetivos generales:

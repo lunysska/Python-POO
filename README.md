@@ -1,5 +1,4 @@
 # Python-POO
-1. Vista panorámica de la programación orientada a objetos
 
 1. [Vista panorámica de la programación orientada a objetos](#introduction)
    1. [Conceptos generales]

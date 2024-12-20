@@ -4,8 +4,8 @@ Este es un curso preparado para la Facultad de Ciencias, UNAM.
 Para la materia de Programación, para la carrera de Actuaria.
 
 ## Integrantes
-Profesora Titular: Virginia Teodosio
-Profesora de Laboratorio: Monica Canales
+- Profesora Titular: Virginia Teodosio
+- Profesora de Laboratorio: Monica Canales
 
 ## Ediciones
 - Edición 1. 2019

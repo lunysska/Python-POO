@@ -19,7 +19,7 @@ problemas relacionados con su disciplina.
 4. Programar en un lenguaje orientado a objetos.
 
 ## Acerca del curso
-Este curso va construyendo un mini sistema por etapas, usando los conceptos que se van revisando durante cada módulo. Esta forma de programar logra una dependencia entre módulos pero cuando el curso termina, quedamos con un sistema más completo, pareciendose mucho a un sistema real.
+Este curso va construyendo un mini sistema por etapas, usando los conceptos que se van revisando durante cada módulo. Esta forma de programar logra una dependencia entre módulos pero cuando el curso termina, quedamos con un sistema más completo, pareciendose mucho a un sistema real.<br>
 Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia, logrando ir practicando cada tema.
 
 ## Temario

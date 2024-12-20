@@ -4,9 +4,10 @@ Created on Febrero,2019
 
 '''
 
-Este ejemplo muestra el uso del operador punto.
+Objetivo. Este ejemplo muestra el uso del operador punto.
 Con este operador se accede a atributos y métodos, definidos en la 
 clase.
+Ejemplo. Se usa la clase Cuenta, con atributo saldo.
 
 Usamos la salida estandar sólo para ver que los datos de nuestro objeto se han creado de manera adecuada.
 

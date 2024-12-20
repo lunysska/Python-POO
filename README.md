@@ -18,6 +18,10 @@ problemas relacionados con su disciplina.
 3. Aprender a diseñar programas con una metodología orientada a objetos.
 4. Programar en un lenguaje orientado a objetos.
 
+## Acerca del curso
+Este curso va construyendo un mini sistema por etapas, usando los conceptos que se van revisando durante cada módulo. Esta forma de programar logra una dependencia entre módulos pero cuando el curso termina, quedamos con un sistema más completo, pareciendose mucho a un sistema real.
+Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia, logrando ir practicando cada tema.
+
 ## Temario
 1. [Vista panorámica de la programación orientada a objetos](#introduction)
    1. [Conceptos generales]

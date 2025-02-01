@@ -15,6 +15,5 @@
 - nombres de método, verbos, y si se necesitan concatenados con otra palabra donde la primera se mayuscula. Ejemplo: calcularDiametro
 
 ## Ejercicios. 
--1. Contexto. Restaurant.
-Identificar 5 clases con atributos y metodos
+1. Contexto. Restaurant. Identificar 5 clases con atributos y metodos
 2. Contexto: sistema de estudiantes de la fac de ciencias.

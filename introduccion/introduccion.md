@@ -15,6 +15,7 @@
 # Conceptos básicos de el PPOO
 - que es una clase, sus atributos y metodos
 - Usamos un rectángulo de 3 secciones para representar estas clases.
+  
   ![Una clase de Alumno](claseAlumno.png)
 
 ## Convenciones de nombrado

@@ -1,13 +1,16 @@
 # Preparando el ambiente de desarrollo
 
+- que es un algoritmo
 - que significa programar
 - que es un lenguaje de programacion de proposito gral
-- que es un algoritmo
 - por qué Python. Caracteristicas de python
 - la diferencia entre interprete y compilador
 - las herramientas que se requieren para programar: un editor + el interprete de Python
 - las extensiones de archivo, que son. Ejemplos: .doc, .txt, etc y las que usa Python .py
-- como se usa el interprete >python Clase.py
+- como se usa el interprete
+```python:
+  >python Clase.py
+```
 
 # Conceptos básicos de el PPOO
 - que es una clase. Sus atributos y metodos

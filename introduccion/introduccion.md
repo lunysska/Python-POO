@@ -10,9 +10,9 @@
 - Usamos un rectángulo de 3 secciones para representar estas clases.
 
 ## Convenciones de nombrado
-  nombre de clase. Sustantivo en mayúscula: Circulo
-- nombre de atributo, sustantivo en minúscula. Ejem: radio
-- nombres de métodos. Verbos, y si se necesitan concatenados con otra palabra donde la primera se mayuscula. Ejemplo: calcularDiametro
+- nombre de clase. Sustantivo en mayúscula. Ejemplo: Circulo
+- nombre de atributo, sustantivo en minúscula. Ejemplo: radio
+- nombres de método, verbos, y si se necesitan concatenados con otra palabra donde la primera se mayuscula. Ejemplo: calcularDiametro
 
 ## Ejercicios. 
 -1. Contexto. Restaurant.

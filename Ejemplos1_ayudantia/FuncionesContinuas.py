@@ -1,7 +1,7 @@
 #ejemplos class: funciones continuas
 
 import sympy as sp
-class funcionescontinuas:
+class FuncionesContinuas:
     def __init__(self, espresion):
             self.espresion= espresion 
             self.symbol= sp.symbol('x') 

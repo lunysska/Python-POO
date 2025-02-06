@@ -23,7 +23,7 @@ Este curso va construyendo un mini sistema por etapas, usando los conceptos que 
 Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia, logrando ir practicando cada tema.
 
 ## Temario
-1. [Vista panorámica de la programación orientada a objetos](introduccion/introduccion.md)
+1. [Vista panorámica de la programación orientada a objetos](modulos/modulo1Intro/introduccion.md)
    1. [Conceptos generales]
    2. [Metodología de diseño]
    3. [Organización general de un programa]

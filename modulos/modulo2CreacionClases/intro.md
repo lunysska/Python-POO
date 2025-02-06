@@ -1,5 +1,5 @@
 # Creacion de clases
-## ver cómo se crean las clases, 
+## cómo se crean las clases, 
 - significado,
 - diseño
 - sintáxis

@@ -1,7 +1,18 @@
 # Creacion de clases
-- ver cómo se crean las clases, en significado, en diseño, en sintáxis
-- como se crean los atributos,
-  Ejercicios
+## ver cómo se crean las clases, 
+- significado,
+- diseño
+- sintáxis
+## como se crean los atributos
+- en sintáxis
+- significado
+  
+Ejercicios
 
--los métodos, lo que son, las ventajas de tener métodos, como se definen en diseño, en sintáxis
+## los métodos, 
+- lo que son,
+- las ventajas de tener métodos,
+- como se definen en diseño,
+- en sintáxis
+ 
 Ejercicios

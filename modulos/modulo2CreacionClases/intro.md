@@ -7,7 +7,7 @@
 - en sintáxis
 - significado
   
-Ejercicios
+[Ejercicios](ejercicio1-operadorPunto/Readme.txt)
 
 ## los métodos, 
 - lo que son,
@@ -15,4 +15,4 @@ Ejercicios
 - como se definen en diseño,
 - en sintáxis
  
-Ejercicios
+[Ejercicios](ejercicio2-metodosVSMain/Readme.txt)

@@ -7,7 +7,7 @@
 - en sintáxis
 - significado
   
-[Ejercicios](ejercicio1-operadorPunto/Readme.txt)
+[Ejercicios](ejercicio1-operadorPunto/README.txt)
 
 ## los métodos, 
 - lo que son,

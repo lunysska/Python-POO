@@ -15,4 +15,4 @@
 - como se definen en diseño,
 - en sintáxis
  
-[Ejercicios](ejercicio2-metodosVSMain/Readme.txt)
+[Ejercicios](ejercicio2-metodosVSMain/README.txt)

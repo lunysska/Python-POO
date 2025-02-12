@@ -3,6 +3,9 @@
 ## Relaciones entre objetos
 
 ## Flujo de control
+### Secuenciales
+### Condicionales
+### Cíclos
 
 ## Publico vs privado
 

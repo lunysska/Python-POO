@@ -2,8 +2,6 @@
 
 ## Relaciones entre objetos
 
-## Expresiones en python, operadores aritméticos
-
 ## Flujo de control
 
 ## Publico vs privado

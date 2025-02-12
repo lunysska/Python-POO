@@ -1,18 +1,25 @@
 # Creacion de clases
-## cómo se crean las clases, 
+## qué son las clases, 
 - significado,
 - diseño
 - sintáxis
-## como se crean los atributos
+### los atributos
 - en sintáxis
 - significado
   
 [Ejercicios](ejercicio1-operadorPunto/README.txt)
 
-## los métodos, 
+### los métodos, 
 - lo que son,
 - las ventajas de tener métodos,
 - como se definen en diseño,
 - en sintáxis
  
 [Ejercicios](ejercicio2-metodosVSMain/README.txt)
+
+## Datos en Python
+
+### cadenas de texto
+### enteros, flotantes y booleanos
+
+

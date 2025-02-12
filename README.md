@@ -29,7 +29,7 @@ Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia,
    3. [Organización general de un programa]
    4. [Normas de estilo]
 2. [Creación de clases](modulos/modulo2CreacionClases/intro.md)
-3. [Objetos, estados y servicios]
+3. [Objetos, estados y servicios](modulos/modulo3ObjetosEstadosServicios/intro.md)
 4. [Datos estructurados]
 5. [Herencia]
 6. [Manejo de errores]

@@ -7,7 +7,7 @@ Created on September, 2018
 from Cuenta import *
 from Cliente import *
 
-class Pruebas:
+class Main:
 	pass
 print ("Desde las pruebas")
 cuenta1 = Cuenta( 300 )

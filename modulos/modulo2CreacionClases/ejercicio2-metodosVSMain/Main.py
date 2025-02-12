@@ -5,7 +5,7 @@ Created on Feb,2019
 '''
 from Cuenta import *
 
-class Pruebas:
+class Main:
 	pass
 
 print ("*** 1. Imprimimos atributos desde el archivo principal")

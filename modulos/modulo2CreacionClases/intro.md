@@ -22,4 +22,10 @@
 ### cadenas de texto
 ### enteros, flotantes y booleanos
 
+## Operaciones de Entrada/Salida en Consola
+
+nombre = input("Ingrese su nombre: ")
+print(nombre)
+nombre = input("Ingrese su nombre: ")
+
 

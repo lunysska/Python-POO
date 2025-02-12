@@ -10,5 +10,8 @@
 ### Cíclos
 
 ## Publico vs privado
+[Ejercicios](ejercicio2-publico-privado/README.txt)
 
 ## Objetos como cadenas
+[Ejercicios](ejercicio3-objetosComoCadenas/README.txt)
+

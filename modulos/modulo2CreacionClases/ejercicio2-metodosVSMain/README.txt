@@ -1,5 +1,6 @@
 ''' 
 Created on Feb,2019
+Modified Feb, 2025
 @author: lunysska
 
 '''
@@ -11,4 +12,19 @@ Created on Feb,2019
  algún problema.
  
  Ejercicio 1:
- - Crear la clase menu, con un método de bienvenida. Usarlo adecuadamente en la clase de Prueba
+- Clase Cuenta:
+* agregar el método retirar (hecho en clase) 
+* agregar el metodo depositar (tarea)
+
+- Crear la clase Menu, c
+* con atributo "mensaje", 
+* un método de bienvenida. 
+* Usarlo adecuadamente en la clase Main
+
+- Clase Cliente
+atributos: nombre, direccion, edad
+metodos: imprimirDetalles()
+
+- Clase Main
+vacia
+Aquí se prueban las clases anteriores.

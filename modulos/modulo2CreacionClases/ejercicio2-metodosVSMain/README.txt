@@ -9,7 +9,7 @@ Modified Feb, 2025
 
 * Sobretodo muestra la importancia de definir metodos, 
  que definen la agrupación de varias expresiones para resolver
- algún problema.
+ algúna acción que los objetos de clase pueden realizar
  
  Ejercicio 1:
 - Clase Cuenta:

@@ -58,14 +58,7 @@ class Cuenta:
             print("Retiro exitoso. Nuevo saldo:",self.saldo-cantidad)
 ```
 
---------------------------------------------------------------------------------------------------------------------------
-https://github.com/victorale1/programaci-nPython/blob/main/teor%C3%ADa/clasesYMetodos/Cuenta.py
-
-''' FECHA: 23 DE FEBRERO DEL 2025
-    AUTOR: DE LA MERCED TELLEZ VICTOR ALEJANDRO 
-    VERSION:
-'''
-
+```python:
 class Cuenta
   def __init__(self,valor,tipo,nombre)
     self.saldo=valor
@@ -82,13 +75,10 @@ class Cuenta
   def depositar(self,cantidad)
     self.saldo=self.saldo+cantidad
     print("Usted deposito:",cantidad)
-
-
----------------------------------------------------------------------------------------------------------------------------------
-Karlo
+```
 
 La extensión es .Py, debe ser minúscula
-#Author: Antonio Karlo Hernandez Pachecano
+```python:
 class Cliente: 
     def __init__(self, nombre, direccion, edad):
         self.nombre = nombre
@@ -98,10 +88,10 @@ class Cliente:
         print("Nombre: ", self.nombre,"Direccion", self.direccion, Edad: ", self.edad)
 cliente1= Cliente("Carlos", "calle Epuris 123", 35)
 cliente1.imprimirDetalles()
+```
 
 - no va c´odigo de prueba dentro de las clases
-
-#Author: Antonio Karlo Hernandez Pachecano
+```python:
 from Cliente import Cliente
 from Cuenta import Cuenta
 
@@ -119,10 +109,9 @@ mensaje.darBienvenida()
 Cliente1 = Cliente("Maria", "Iztapalapa 11", 18)
 imprimirDetalles(cliente1)
 Cuenta1 = Cuenta(250, "debito", "Maria")
+```
 
-----------------------------------------------------------------------------------------------------------------------------------
-Brandon. 
-
+```python:
 - El readme lleva .txt
 ----------------------------------------------------------------------------------------------------------------------------------
 tiza-develops
@@ -136,8 +125,7 @@ def retirar():
         print("Introduzca un número")
         retirar()
 
-******
-
+######
 from Cliente import *
 from Cuenta import *
 
@@ -156,7 +144,5 @@ Juan = Cliente("Juan","Xochimilco 13", "34")
 imprimirDetalles(Juan)
 
 cuenta1 = Cuenta(100,"debito","Juan")
-
----------------------------------------------------------------------------------------------------------------------------------------
-
+```
 

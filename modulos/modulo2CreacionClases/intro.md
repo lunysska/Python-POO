@@ -30,15 +30,9 @@ nombre = input("Ingrese su nombre: ")
 
 ## Tips de mejoras en código
 
-En cada capítulo tenemos algunas sugerencias de mejoras de códigos
+En cada capítulo tenemos algunas sugerencias de mejoras de códigos que hemos visto que se realizan en el código de manera continua
 
-input
-**********************
-opcion= input('Dame el radio:\n')
-print("la opcion::",opcion+8)
-
-*** bapc12
-
+```python:
 class Cuenta:
     def __init__(self,valor,tipo,propietario):
         self.saldo= valor
@@ -62,6 +56,7 @@ class Cuenta:
             print("No se puede realizar el retiro.")
         elif self.saldo >= cantidad:
             print("Retiro exitoso. Nuevo saldo:",self.saldo-cantidad)
+```
 
 --------------------------------------------------------------------------------------------------------------------------
 https://github.com/victorale1/programaci-nPython/blob/main/teor%C3%ADa/clasesYMetodos/Cuenta.py

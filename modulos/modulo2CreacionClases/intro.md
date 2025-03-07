@@ -78,7 +78,7 @@ class Cuenta
     print("Usted deposito:",cantidad)
 ```
 
-- Código 2
+- Código 3
 ```python:
 Nombre de Archivo: Cliente.Py
 class Cliente: 
@@ -92,7 +92,7 @@ cliente1= Cliente("Carlos", "calle Epuris 123", 35)
 cliente1.imprimirDetalles()
 ```
 
-- Código 3
+- Código 4
 ```python:
 from Cliente import Cliente
 from Cuenta import Cuenta
@@ -113,7 +113,7 @@ imprimirDetalles(cliente1)
 Cuenta1 = Cuenta(250, "debito", "Maria")
 ```
 
-- Código 4
+- Código 5
 ```python:
 #Acá incluye archivo que se llama "readme"
 

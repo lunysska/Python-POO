@@ -32,6 +32,7 @@ nombre = input("Ingrese su nombre: ")
 
 En cada capítulo tenemos algunas sugerencias de mejoras de códigos que hemos visto que se realizan en el código de manera continua
 
+- *Código 1*
 ```python:
 class Cuenta:
     def __init__(self,valor,tipo,propietario):

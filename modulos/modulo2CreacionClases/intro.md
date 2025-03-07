@@ -24,9 +24,11 @@
 
 ## Operaciones de Entrada/Salida en Consola
 
+```python:
 nombre = input("Ingrese su nombre: ")
 print(nombre)
 nombre = input("Ingrese su nombre: ")
+```
 
 ## Tips de mejoras en código
 

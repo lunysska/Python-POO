@@ -32,7 +32,7 @@ nombre = input("Ingrese su nombre: ")
 
 En cada capítulo tenemos algunas sugerencias de mejoras de códigos que hemos visto que se realizan en el código de manera continua
 
-- *Código 1*
+- Código 1
 ```python:
 class Cuenta:
     def __init__(self,valor,tipo,propietario):
@@ -58,7 +58,7 @@ class Cuenta:
         elif self.saldo >= cantidad:
             print("Retiro exitoso. Nuevo saldo:",self.saldo-cantidad)
 ```
-
+- Código 2
 ```python:
 class Cuenta
   def __init__(self,valor,tipo,nombre)
@@ -78,8 +78,9 @@ class Cuenta
     print("Usted deposito:",cantidad)
 ```
 
-La extensión es .Py, debe ser minúscula
+- Código 2
 ```python:
+Nombre de Archivo: Cliente.Py
 class Cliente: 
     def __init__(self, nombre, direccion, edad):
         self.nombre = nombre
@@ -91,7 +92,7 @@ cliente1= Cliente("Carlos", "calle Epuris 123", 35)
 cliente1.imprimirDetalles()
 ```
 
-- no va c´odigo de prueba dentro de las clases
+- Código 3
 ```python:
 from Cliente import Cliente
 from Cuenta import Cuenta
@@ -112,10 +113,9 @@ imprimirDetalles(cliente1)
 Cuenta1 = Cuenta(250, "debito", "Maria")
 ```
 
+- Código 4
 ```python:
-- El readme lleva .txt
-----------------------------------------------------------------------------------------------------------------------------------
-tiza-develops
+#Acá incluye archivo que se llama "readme"
 
 def retirar():
     message = input("Indique cuánto desea retirar")
@@ -146,4 +146,3 @@ imprimirDetalles(Juan)
 
 cuenta1 = Cuenta(100,"debito","Juan")
 ```
-

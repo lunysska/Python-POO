@@ -6,7 +6,7 @@ clase.
 - Se crea una clase Pruebas, vacía donde se usa la salida estandar sólo para ver que los datos de nuestro objeto se han creado de manera adecuada.
 
 Revisar:
-[Cuenta.py](Cuenta.py)
+[Cuenta.py](Cuenta.py)<br>
 [Pruebas.py](Pruebas.py)
 
 ## Ejercicio 1: 

@@ -21,7 +21,7 @@
 ## Convenciones de nombrado
 - nombre de clase. Sustantivo en mayúscula. Ejemplo: Circulo
 - nombre de atributo, sustantivo en minúscula. Ejemplo: radio
-- nombres de método, verbos, y si se necesitan concatenados con otra palabra donde la primera se mayuscula. Ejemplo: calcularDiametro
+- nombres de método, verbos, y si se necesitan concatenados con otra palabra donde la primera se mayuscula. Ejemplo: calcularDiametro, o calcular_diametro (según el tipo de nombrado que utilicen)
 
 ## Ejercicios. 
 1. Contexto. Restaurant. Identificar 5 clases con atributos y metodos

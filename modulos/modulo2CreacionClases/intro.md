@@ -15,7 +15,7 @@
 - como se definen en diseño,
 - en sintáxis
  
-[Ejercicios](ejercicio2-metodosVSMain/README.txt)
+[Ejercicios](ejercicio2-metodosVSMain/ejercicio2-metodosVSMain.md)
 
 ## Datos en Python
 

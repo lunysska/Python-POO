@@ -35,3 +35,5 @@ metodos: imprimirDetalles()
 vacia
 Aquí se prueban las clases anteriores.
 
+## Más ejercicios
+Revisar en el directorio

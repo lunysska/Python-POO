@@ -13,10 +13,19 @@
 * agregar el método retirar 
 * agregar el metodo depositar 
 
-- Crear la clase Menu, c
-* con atributo "mensaje", 
-* un método de bienvenida. 
-* Usarlo adecuadamente en la clase Main
+- Crear la clase Menu,
+ * con atributo "mensajeDeBienvenida", 
+ * método **darBienvenida**, encargado de dar la bienvenida al usuario, sólo imprime el **mensajeDeBienvenida**
+ * método **despliegaMenu**, encargado de desplegar el menu de las opciones que tiene el banco. y preguntarle al usuario que opción quiere hacer
+ * método **procesaOpcion**, encargado de tomar la opción del cliente y dependiendo de la que haya elegido llamar al método correspondiente con un objeto de la clase **Cuenta**
+ * eliminar todas las pruebas de este archivo
+
+ - Crear una clase Main
+   * que esté vacía, (sin atributos y métodos), usar la palabra reservada **pass**
+   * hacer en esta clase las pruebas y ejecución del algoritmo principal. 
+
+
+## Ejercicio 2:
 
 - Clase Cliente
 atributos: nombre, direccion, edad

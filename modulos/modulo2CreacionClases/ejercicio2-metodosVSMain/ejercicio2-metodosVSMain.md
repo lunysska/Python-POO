@@ -9,11 +9,11 @@
 - [Pruebas.py](Pruebas.py)
  
 ## Ejercicio 1:
-- 1. Clase Cuenta:
+- 1. Clase Cuenta
      * agregar el método retirar 
      * agregar el metodo depositar 
 
-- 2. Crear la clase Menu,
+- 2. Crear la clase Menu
      * con atributo "mensajeDeBienvenida", 
      * método **darBienvenida**, encargado de dar la bienvenida al usuario, sólo imprime el **mensajeDeBienvenida**
      * método **despliegaMenu**, encargado de desplegar el menu de las opciones que tiene el banco. y preguntarle al usuario que opción quiere hacer

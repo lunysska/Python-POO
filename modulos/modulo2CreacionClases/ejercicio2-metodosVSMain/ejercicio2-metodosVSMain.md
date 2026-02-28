@@ -1,4 +1,4 @@
-# Este ejemplo muestra el uso del operador punto con métodos
+# Métodos vs Main
 
 # Sobretodo muestra la importancia de definir metodos, 
  que definen la agrupación de varias expresiones para resolver

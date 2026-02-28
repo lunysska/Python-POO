@@ -3,6 +3,10 @@
 # Muestra la importancia de definir metodos, 
  que definen la agrupación de varias expresiones para resolver
  algúna acción que los objetos de clase pueden realizar
+
+ Revisar:<br>
+- [Cuenta.py](Cuenta.py)
+- [Pruebas.py](Pruebas.py)
  
 ## Ejercicio 1:
 - Clase Cuenta:

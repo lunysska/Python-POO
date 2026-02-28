@@ -1,8 +1,9 @@
 # Métodos vs Main
 
-# Muestra la importancia de definir metodos, 
+# Objetivo
+Muestra la importancia de definir metodos, 
  que definen la agrupación de varias expresiones para resolver
- algúna acción que los objetos de clase pueden realizar
+ algúna acción que los objetos de clase pueden realizar en lugar de tener mucho código en el **main**
 
  Revisar:<br>
 - [Cuenta.py](Cuenta.py)

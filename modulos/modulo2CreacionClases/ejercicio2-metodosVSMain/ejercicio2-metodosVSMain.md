@@ -1,6 +1,6 @@
 # Métodos vs Main
 
-# Sobretodo muestra la importancia de definir metodos, 
+# Muestra la importancia de definir metodos, 
  que definen la agrupación de varias expresiones para resolver
  algúna acción que los objetos de clase pueden realizar
  

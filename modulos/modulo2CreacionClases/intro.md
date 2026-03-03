@@ -22,6 +22,24 @@
 ### cadenas de texto
 ### enteros, flotantes y booleanos
 
+## Convenciones de nombrado en Python
+Las convenciones de nombrado de variables son muy importantes porque nos dan limpieza en el código y un mayor entendimiento del mismo, incluso antes de ir a leer la documentación. Por tal motivo se considera un principio de programación.
+
+En Python y en esta clase usaremos:
+
+- sustantivo para nombres de variables y atributos, empezando con minúscula.
+  ``` python
+    int edad
+    int edadRegistro
+    int edad_registro
+  ```
+- sustantivo para nombres de clases, empezando con Mayúscula
+- verbos para nombres de métodos, empezando con minúscula
+
+[Acá se puede leer con más detenimiento](https://peps-python-org.translate.goog/pep-0008/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
+
+
 ## Operaciones de Entrada/Salida en Consola
 
 ```python:

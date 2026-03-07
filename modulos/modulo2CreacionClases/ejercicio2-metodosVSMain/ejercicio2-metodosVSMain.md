@@ -25,8 +25,11 @@ Muestra la importancia de definir metodos,
      * que esté vacía, (sin atributos y métodos), usar la palabra reservada **pass**
      * hacer en esta clase las pruebas y ejecución del algoritmo principal. 
 
-
 ## Ejercicio 2:
+ Evaluación 1
+ Realizar un menú para el Sistema X (el que el alumno esté programando), que muestre las opciones disponibles en el sistema y que procese la opción solicitada.
+ 
+## Ejercicio 3:
 
 - Clase Cliente
 atributos: nombre, direccion, edad

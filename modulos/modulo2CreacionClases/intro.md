@@ -1,4 +1,4 @@
-# Creacion de clases
+# Creación de clases
 ## qué son las clases, 
 - significado,
 - diseño

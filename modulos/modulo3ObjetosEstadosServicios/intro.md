@@ -1,6 +1,6 @@
 # Módulo3. Objetos, Estados, Servicios.
 
-## Relaciones entre objetos
+## 3.1 Relaciones entre objetos
 Existen diferentes tipos de relaciones entre clases. En esta sección sólo consideraremos La relación "tiene una" (o
 has-a en inglés) en Python se implementa mediante la composición o agregación, donde una clase contiene una instancia de otra clase como atributo.
 
@@ -27,15 +27,15 @@ print(f"{mi_carro.marca} tiene un motor {mi_carro.motor.tipo}")
 
 [Ejercicios](ejercicio1-relacionesEntreObjetos/README.txt)
 
-## Flujo de control
+## 3.2 Flujo de control
 ### Secuenciales
 ### Condicionales
 ### Cíclos
 
-## Publico vs privado
+## 3.3 Publico vs privado
 [Ejercicios](ejercicio2-publico-privado/README.txt)
 
-## Objetos como cadenas
+## 3.4 Objetos como cadenas
 
 **__str__**: Este método se utiliza para definir la representación en cadena de un objeto que sea legible para humanos. Es llamado por la función integrada **str()** y por la función **print**.<br>
 

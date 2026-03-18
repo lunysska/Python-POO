@@ -10,9 +10,12 @@ from Cuenta import *
 class Menu:
 
 	# por ahora nuestra clase sólo tiene un atributo.
-	def __init__(self, valor, cta):
+	def __init__(self, valor):
 		self.mensajeDeBienvenida = valor
-		self.cuenta = cta
+		self.cargaDatos()
+
+	def cargaDatos(self):
+		self.cuenta = Cuenta( 300, "debito" ) 
 
 	def darBienvenida(self):
 		print(self.mensajeDeBienvenida)
@@ -30,4 +33,5 @@ class Menu:
 			cantidad = float(input("Ingresa la cantidad a depositar:"))
 			if (self.cuenta.depositar(cantidad)):
 				print("El deposito se realizo con exito")
+				self.cuenta.imprimirDetalles()
 		

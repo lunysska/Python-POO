@@ -26,7 +26,7 @@ class Cuenta:
 			return False
 
 	def __str__(self):
-		return "saldo::" + str(self.cantidad) + "::tipo::" + self.tipo
+		return "Saldo::" + str(self.cantidad) + "::Tipo::" + self.tipo
 
 
 

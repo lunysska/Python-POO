@@ -31,7 +31,7 @@ print(f"{mi_carro.marca} tiene un motor {mi_carro.motor.tipo}")
 ### Secuenciales
 ### Condicionales
 ### Cíclos
-[Ejercicios](ejercicio5-/README.txt)
+[Ejercicios](ejercicio5-condicionalesPD/README.txt)
 
 ## 3.3 Publico vs privado
 [Ejercicios](ejercicio2-publico-privado/README.txt)

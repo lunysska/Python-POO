@@ -9,7 +9,7 @@ has-a en inglés) en Python se implementa mediante la composición o agregación
 - **Uso:** Permite que objetos complejos se construyan reutilizando componentes más pequeños y especializados.
 - **Ventajas:** Mayor flexibilidad y modularidad en el diseño
 
-`` python
+``` python
 class Motor:
     def __init__(self, tipo):
         self.tipo = tipo
@@ -23,7 +23,6 @@ class Carro:
 # Uso
 mi_carro = Carro("Toyota", "V6")
 print(f"{mi_carro.marca} tiene un motor {mi_carro.motor.tipo}")
-
 ```
 
 [Ejercicios](ejercicio1-relacionesEntreObjetos/README.txt)

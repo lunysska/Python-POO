@@ -41,8 +41,21 @@ print(f"{mi_carro.marca} tiene un motor {mi_carro.motor.tipo}")
 
 ``` python
 class Car:
+    def __init__(self, make, model):
+        """Initializes the car attributes."""
+        self.make = make
+        self.model = model
+
     def __str__(self):
+        """Returns the informal string representation for the object."""
         return f"{self.make} {self.model}"
+
+# Example Usage:
+my_car = Car("Toyota", "Corolla")
+friends_car = Car("Ford", "Explorer")
+
+print(my_car)
+print(str(friends_car))
 ```
 
 [Ejercicios](ejercicio3-objetosComoCadenas/README.txt)

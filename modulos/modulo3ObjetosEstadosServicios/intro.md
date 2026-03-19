@@ -33,10 +33,7 @@ print(f"{mi_carro.marca} tiene un motor {mi_carro.motor.tipo}")
 ### Cíclos
 [Ejercicios](ejercicio5-condicionalesPD/README.txt)
 
-## 3.3 Publico vs privado
-[Ejercicios](ejercicio2-publico-privado/README.txt)
-
-## 3.4 Objetos como cadenas
+## 3.3 Objetos como cadenas
 
 **__str__**: Este método se utiliza para definir la representación en cadena de un objeto que sea legible para humanos. Es llamado por la función integrada **str()** y por la función **print**.<br>
 

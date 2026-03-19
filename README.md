@@ -31,7 +31,7 @@ Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia,
    4. [Normas de estilo]
 2. [Creación de clases](modulos/modulo2CreacionClases/intro.md)
 3. [Objetos, estados y servicios](modulos/modulo3ObjetosEstadosServicios/intro.md)
-4. [Datos estructurados]
+4. [Datos estructurados](modulos/modulo4DatosEstructurados/intro.md)
 5. [Herencia]
 6. [Manejo de errores]
 7. [Objetos persistentes]

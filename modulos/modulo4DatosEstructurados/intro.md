@@ -1,6 +1,6 @@
-## 4.1 Publico vs privado
+## 4.1 Encapsulamiento en PPOO. Publico vs privado
 
-El encapsulamiento en Python es un pilar de la Programación Orientada a Objetos (POO) que restringe el acceso directo a los atributos y métodos de una clase para evitar modificaciones accidentales. Se logra mediante convenciones de nombres: un guion bajo **_** para miembros protegidos y doble guion bajo **__** para privados, limitando su visibilidad externa. 
+El **encapsulamiento** en Python es un pilar de la Programación Orientada a Objetos (POO) que restringe el acceso directo a los atributos y métodos de una clase para evitar modificaciones accidentales. Se logra mediante convenciones de nombres: un guion bajo **_** para miembros protegidos y doble guion bajo **__** para privados, limitando su visibilidad externa. 
 
 Principales conceptos de Encapsulamiento en Python:
 

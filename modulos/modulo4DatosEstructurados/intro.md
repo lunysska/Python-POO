@@ -33,6 +33,10 @@ print(cuenta.get_saldo())  # Forma correcta (salida: 1000)
 cuenta.depositar(500)
 print(cuenta.obtener_saldo())
 ```
+Beneficios:
+    **Seguridad:** Protege la integridad de los datos internos de los objetos.
+    **Modularidad:** Permite cambiar la implementación interna sin afectar el código externo que utiliza la clase.
+    **Control:** Facilita la validación de datos al modificar atributos a través de métodos setters.
 
 
 [Ejercicios](ejercicio1-publicoVsPrivado/README.txt)

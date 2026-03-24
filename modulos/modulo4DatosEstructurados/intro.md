@@ -33,6 +33,7 @@ print(cuenta.get_saldo())  # Forma correcta (salida: 1000)
 cuenta.depositar(500)
 print(cuenta.obtener_saldo())
 ```
+
 ### Beneficios:
 
     Seguridad: Protege la integridad de los datos internos de los objetos.

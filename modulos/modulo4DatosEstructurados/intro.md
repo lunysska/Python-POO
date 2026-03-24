@@ -15,20 +15,21 @@ class CuentaBancaria:
         self.titular = titular        # Público
         self.__saldo = saldo          # Privado (doble guion bajo)
 
-    # Getter para saldo
-    def obtener_saldo(self):
+    # Getter para saldo 
+    def get_saldo(self): # o getSaldo(self):
         return self.__saldo
 
     # Setter para saldo con validación
     def depositar(self, cantidad):
         if cantidad > 0:
             self.__saldo += cantidad
+            return True
         else:
-            print("Cantidad no válida")
+            return False
 
 cuenta = CuentaBancaria("Juan", 1000)
 # print(cuenta.__saldo)  # Esto generaría un AttributeError
-print(cuenta.obtener_saldo())  # Forma correcta (salida: 1000)
+print(cuenta.get_saldo())  # Forma correcta (salida: 1000)
 cuenta.depositar(500)
 print(cuenta.obtener_saldo())
 ```

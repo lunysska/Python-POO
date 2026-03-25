@@ -61,4 +61,7 @@ print(str(friends_car))
 Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
 [Sistema del Banco](sistemaBanco.md)
 
+## 3.5 Referencias
+https://www.scaler.com/topics/python-str
+
 

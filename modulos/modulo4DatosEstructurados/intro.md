@@ -42,10 +42,10 @@ print(cuenta.get_saldo())
     Modularidad: Permite cambiar la implementación interna sin afectar el código externo que utiliza la clase.
     Control: Facilita la validación de datos al modificar atributos a través de métodos setters.
 
-### Referencias
+[Ejercicios](ejercicio1-publicoVsPrivado/README.md)
+
+
+## Referencias
 - https://www.datacamp.com/es/tutorial/encapsulation-in-python-object-oriented-programming
 - https://ellibrodepython.com/encapsulamiento-poo
 - https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/3076/mod_resource/content/1/UAPA-Abstraccion-Encapsulamiento/index.html
-
-
-[Ejercicios](ejercicio1-publicoVsPrivado/README.md)

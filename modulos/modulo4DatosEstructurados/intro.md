@@ -33,7 +33,7 @@ cuenta = CuentaBancaria("Juan", 1000)
 # print(cuenta.__saldo)  # Esto generaría un AttributeError
 print(cuenta.get_saldo())  # Forma correcta (salida: 1000)
 cuenta.depositar(500)
-print(cuenta.obtener_saldo())
+print(cuenta.get_saldo())
 ```
 
 ### Beneficios:

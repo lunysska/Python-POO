@@ -48,4 +48,4 @@ print(cuenta.get_saldo())
 - https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/3076/mod_resource/content/1/UAPA-Abstraccion-Encapsulamiento/index.html
 
 
-[Ejercicios](ejercicio1-publicoVsPrivado/README.txt)
+[Ejercicios](ejercicio1-publicoVsPrivado/README.md)

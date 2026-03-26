@@ -106,14 +106,12 @@ for cuenta in listaObjetos:
 print("la suma es::",sum) 
 # qué paso? que resultado generó? y por qué? como se puede solucionar?
 ```
-
-
-
+### Ejercicios
+[Acá va la aplicación de este concepto (de manera parcial) al Sistema del Banco.](ejercicio2-listasDeCuentas/README.md)
 
 ## 4.3 Sistema del Banco
 Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
 [Sistema del Banco](sistemaBanco.md)
-
 
 ## Referencias
 - https://www.datacamp.com/es/tutorial/encapsulation-in-python-object-oriented-programming

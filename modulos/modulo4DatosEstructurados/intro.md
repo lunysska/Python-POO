@@ -45,6 +45,71 @@ print(cuenta.get_saldo())
 ### Ejercicios
 [Acá va la aplicación de este concepto (de manera parcial) al Sistema del Banco.](ejercicio1-publicoVsPrivado/README.md)
 
+## 4.2 Listas de objetos
+Esta sección es para probar el manejo de **objetos** en una estructura de datos: listas. Como lo común es manejar listas con variables básicas, entonces vale la pena compararlas.
+
+### 4.2.1. Empezamos con listas vacias
+
+``` python
+listaVariablesBasicas = []
+listaObjetos = []
+```
+
+### 4.2.2 Agregamos elementos a las listas
+``` python
+x1 = 1
+x2 = 2
+
+listaVariablesBasicas.append(x1)
+listaVariablesBasicas.append(x2)
+listaVariablesBasicas.append(4)
+
+c1 = Cuenta(5000)
+c2 = Cuenta(8000)
+
+listaObjetos.append(c1)
+listaObjetos.append(c2)
+listaObjetos.append( Cuenta(10000))
+```
+
+### 4.2.3. Acceder al elemento i-ésimo
+``` python
+# el 1
+print(listaVariablesBasicas[0])
+
+# el 3
+print(listaObjetos[2])
+# qué se imprimió acá? por qué?
+```
+
+### 4.2.4. len para saber la cantidad de datos de una lista
+``` python
+
+# que es len ? metodo? atributo?
+print("cantidad de variables basicas::",len(listaVariablesBasicas))
+print("cantidad de objetos", len(listaObjetos))
+```
+
+### 4.2.5. Recorrido de una lista
+``` python
+# Hagamos la suma de los valores de la lista de variables básicas
+sum = 0
+for num in listaVariablesBasicas:
+	sum += num
+print("la suma es::",sum)  
+
+# Para el caso de la lista de objetos, hagamos la suma de los saldos de todas las cuentas disponibles
+# cómo es el código?
+sum = 0
+for cuenta in listaObjetos:
+	sum += cuenta
+print("la suma es::",sum) 
+# qué paso? que resultado generó? y por qué? como se puede solucionar?
+```
+
+
+
+
 ## 4.3 Sistema del Banco
 Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
 [Sistema del Banco](sistemaBanco.md)

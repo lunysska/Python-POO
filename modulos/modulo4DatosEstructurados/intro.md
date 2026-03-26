@@ -117,3 +117,4 @@ Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
 - https://www.datacamp.com/es/tutorial/encapsulation-in-python-object-oriented-programming
 - https://ellibrodepython.com/encapsulamiento-poo
 - https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/3076/mod_resource/content/1/UAPA-Abstraccion-Encapsulamiento/index.html
+- https://docs.python.org/es/3/tutorial/datastructures.html

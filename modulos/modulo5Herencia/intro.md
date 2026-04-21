@@ -94,7 +94,7 @@ Con tan solo un par de líneas de código, hemos creado una clase nueva que tien
 
 ## 5.5 Herencia en el sistema del Banco
 Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
-[Sistema del Banco](sistemaBanco.md)
+[Sistema del Banco](SistemaBanco.md)
 
 ## 5.6 Referencias
 

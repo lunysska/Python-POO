@@ -1,4 +1,4 @@
-# Herencia
+# 5. Herencia
 
 La programación orientada a objetos nos permite crear clases que pueden heredar propiedades, métodos y comportamientos de otras clases ya existentes. En Python, la herencia es una característica clave que nos permite crear clases hijas a partir de una clase madre.
 
@@ -22,12 +22,12 @@ class Perro(Animal):
 mi_perro = Perro("Fido")
 ```
 
-## Ventajas de la herencia
+## 5.1. Ventajas de la herencia
 Dado que una clase hija hereda los atributos y métodos de la padre, nos puede ser muy útil cuando tengamos clases que se parecen entre sí pero tienen ciertas particularidades. En este caso en vez de definir un montón de clases para cada animal, podemos tomar los elementos comunes y crear una clase Animal de la que hereden el resto, respetando por tanto la filosofía **DRY**. Realizar estas abstracciones y buscar el denominador común para definir una clase de la que hereden las demás, es una tarea de lo más compleja en el mundo de la programación.
 
 Para saber más: El principio DRY (Don't Repeat Yourself) es muy aplicado en el mundo de la programación y consiste en no repetir código de manera innecesaria. Cuanto más código duplicado exista, más difícil será de modificar y más fácil será crear inconsistencias. Las clases y la herencia a no repetir código.
 
-## Extendiendo y modificando métodos
+## 5.2. Extendiendo y modificando métodos
 
 Continuemos con nuestro ejemplo de perros y animales. Vamos a definir una clase padre Animal que tendrá todos los atributos y métodos genéricos que los animales pueden tener. Esta tarea de buscar el denominador común es muy importante en programación. Veamos los atributos:
 
@@ -77,17 +77,28 @@ mi_perro.describeme()
 
 Con tan solo un par de líneas de código, hemos creado una clase nueva que tiene todo el contenido que la clase padre tiene, pero aquí viene lo que es de verdad interesante, de manera análoga, se pueden crear varios animales concretos y sobreescrbir algunos de los métodos que habían sido definidos en la clase Animal, como el hablar o el moverse, ya que cada animal se comporta de una manera distinta.
 
-## Conceptos Clave de la Herencia
+## 5.3 Conceptos Clave de la Herencia
 
     - Reutilización de Código: Evita reescribir métodos y atributos comunes.
     - Clase Madre (Superclase): La clase original que define características generales.
     - Clase Hija (Subclase): La nueva clase que hereda características y puede añadir o modificar las propias.
     - Sobrescritura de Métodos (Overriding): La clase hija puede redefinir métodos de la clase padre para personalizar su comportamiento.
 
-## Beneficios:
+## 5.4 Beneficios:
 
     - Estructura Jerárquica: Organiza el código desde lo general a lo específico.
     - Mantenimiento: Cambios en la clase padre se reflejan automáticamente en las hijas.
     - Flexibilidad: Permite extender funcionalidades fácilmente. 
     - super(): Función esencial para invocar métodos de la clase padre desde la hija, especialmente usada en el constructor **__init__**.
     - Herencia Múltiple: Python permite que una clase hija herede de múltiples clases padre, estructurando relaciones complejas.
+
+## 5.5 Herencia en el sistema del Banco
+Cómo pruebo todos estos conceptos en el sistema del Banco.? <br>
+[Sistema del Banco](sistemaBanco.md)
+
+## 5.6 Referencias
+
+- https://www.datacamp.com/es/tutorial/python-inheritance
+- https://ellibrodepython.com/herencia-en-python
+- https://juncotic.com/poo-herencia-en-python/
+- https://oregoom.com/python/herencia/

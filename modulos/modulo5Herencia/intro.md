@@ -76,3 +76,12 @@ mi_perro.describeme()
 ```
 
 Con tan solo un par de líneas de código, hemos creado una clase nueva que tiene todo el contenido que la clase padre tiene, pero aquí viene lo que es de verdad interesante, de manera análoga, se pueden crear varios animales concretos y sobreescrbir algunos de los métodos que habían sido definidos en la clase Animal, como el hablar o el moverse, ya que cada animal se comporta de una manera distinta.
+
+## Conceptos Clave de la Herencia
+
+    - Reutilización de Código: Evita reescribir métodos y atributos comunes.
+    - Clase Madre (Superclase): La clase original que define características generales.
+    - Clase Hija (Subclase): La nueva clase que hereda características y puede añadir o modificar las propias.
+    - Sobrescritura de Métodos (Overriding): La clase hija puede redefinir métodos de la clase padre para personalizar su comportamiento.
+    - super(): Función esencial para invocar métodos de la clase padre desde la hija, especialmente usada en el constructor **__init__**.
+    - Herencia Múltiple: Python permite que una clase hija herede de múltiples clases padre, estructurando relaciones complejas.

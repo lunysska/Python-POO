@@ -83,5 +83,11 @@ Con tan solo un par de líneas de código, hemos creado una clase nueva que tien
     - Clase Madre (Superclase): La clase original que define características generales.
     - Clase Hija (Subclase): La nueva clase que hereda características y puede añadir o modificar las propias.
     - Sobrescritura de Métodos (Overriding): La clase hija puede redefinir métodos de la clase padre para personalizar su comportamiento.
+
+## Beneficios:
+
+    - Estructura Jerárquica: Organiza el código desde lo general a lo específico.
+    - Mantenimiento: Cambios en la clase padre se reflejan automáticamente en las hijas.
+    - Flexibilidad: Permite extender funcionalidades fácilmente. 
     - super(): Función esencial para invocar métodos de la clase padre desde la hija, especialmente usada en el constructor **__init__**.
     - Herencia Múltiple: Python permite que una clase hija herede de múltiples clases padre, estructurando relaciones complejas.

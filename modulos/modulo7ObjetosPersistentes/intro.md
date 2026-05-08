@@ -30,8 +30,22 @@ Características y detalles clave:
 
 Ejemplo: [datosEstudiantes.csv](data/datosEstudiantes.csv)
 
+# 7.3.2 Manejo de archivos CSV con Python
+
+En este primer ejemplo se usarà usando el paradigma estructurado y una biblioteca estàndar
+
+``` python
+import csv
+
+with open('datosEstudiantes.csv') as file:
+    csv_reader = csv.reader(file, delimiter=',')
+
+    for row in csv_reader:
+        print(row)
+```
+
 
 # 7.5 Referencias
 
-
 - https://share.google/aY6PFj0M20zpy8IMZ
+- https://docs.python.org/es/3.9/library/csv.html

@@ -34,4 +34,4 @@ Aparte se irán creando ejercicios complementarios en las sesiones de ayudantia,
 4. [Datos estructurados](modulos/modulo4DatosEstructurados/intro.md)
 5. [Herencia](modulos/modulo5Herencia/intro.md)
 6. [Manejo de errores](modulos/modulo6ManejoErrores/intro.md)
-7. [Objetos persistentes]
+7. [Objetos persistentes](modulos/modulo7ObjetosPersistentes/intro.md)

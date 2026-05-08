@@ -28,7 +28,7 @@ Características y detalles clave:
     - Ventajas: Es un formato universal, ligero, legible por humanos y compatible con casi cualquier software de hojas de cálculo (Excel, Google Sheets).
     - Sinónimos: Se le conoce frecuentemente como archivo de texto, archivo de valores delimitados o, simplemente, fichero de datos. 
 
-Ejemplo:
+Ejemplo: [datosEstudiantes.csv](data/datosEstudiantes.csv)
 
 
 # 7.5 Referencias
